@@ -1,3 +1,0 @@
-Some contents of the new-file.
-
-Added another line of text.
