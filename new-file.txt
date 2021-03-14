@@ -1,0 +1,5 @@
+Some lorem ipsum to add to the new file.
+
+Another line right here.
+
+And now for the final line in this editing session.
